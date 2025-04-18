@@ -25,7 +25,7 @@ Sou Jamesson Lucas, apaixonado por tecnologia, análise e desenvolvimento de sis
 - IntelliJ IDEA
 - Git e GitHub
 - MySQL
-
+- HTML, CSS e JS
 ---
 
 ## ▶️ Como executar este projeto localmente
