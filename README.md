@@ -19,7 +19,7 @@ Sou Jamesson Lucas, apaixonado por tecnologia, análise e desenvolvimento de sis
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Linguagens / IDEs e afins utilizadas
 
 - Java (JDK 17)
 - IntelliJ IDEA
