@@ -1,12 +1,12 @@
 # 💻 EstudosJava
 
-Este repositório foi criado para registrar meus primeiros passos com a linguagem de programação Java, com foco no aprendizado didático e gradual.
+Este repositório foi criado para registrar os meus primeiros passos com a linguagem de programação Java, com foco no aprendizado didático e gradual.
 
 ---
 
 ## 📌 Sobre mim
 
-Sou Jamesson Lucas, apaixonado por tecnologia, análise e desenvolvimento de sistemas. Estou trilhando um caminho com dedicação e amor pelo conhecimento, buscando evoluir com constância na área da programação.
+Sou Jamesson Lucas, apaixonado por tecnologia, análise e desenvolvimento de sistemas. Estou a trilhar um caminho com dedicação e amor pelo conhecimento, buscando evoluir com constância na área da programação.
 
 ---
 
@@ -72,7 +72,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ## 🙏 Gratidão
 
-Cada linha de código é uma conquista. Obrigado por acompanhar meu progresso.
+Cada linha de código é uma conquista. Obrigado por acompanhar o meu progresso.
 
 Com axé e aprendizado,  
 James 💫

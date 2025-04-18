@@ -7,8 +7,8 @@ Este repositório foi criado com fins educativos e para prática de Java. Ainda 
 ---
 ## 📌 Regras básicas
 
-- Tenha certeza de que seu código está funcionando antes de enviar
-- Comente seu código sempre que necessário
+- Tenha certeza de que o seu código está funcionando antes de enviar
+- Comente o seu código sempre que necessário
 - Mantenha a organização e formatação dos arquivos
 - Evite duplicação de funcionalidades
 
@@ -17,7 +17,7 @@ Este repositório foi criado com fins educativos e para prática de Java. Ainda 
 
 ### • 1. Faça um fork deste repositório
 
-### • 2. Crie um novo branch com a sua funcionalidade:
+### • 2. Crie um branch com a sua funcionalidade:
 
 #### git checkout -b minha-nova-funcionalidade
 
@@ -25,7 +25,7 @@ Este repositório foi criado com fins educativos e para prática de Java. Ainda 
 
 #### git commit -m "Adicionei nova funcionalidade"
 
-### • 4. Faça o push para seu fork:
+### • 4. Faça o push para o seu fork:
 
 #### git push origin minha-nova-funcionalidade
 
@@ -37,7 +37,7 @@ Este repositório foi criado com fins educativos e para prática de Java. Ainda 
 
 - Novos exercícios Java
 - Comentários explicativos no código
-- Correções de erros ou melhorias de performance
+- Correções de erros ou melhorias de desempenho
 - Expansão do README ou documentação
 
 ---
