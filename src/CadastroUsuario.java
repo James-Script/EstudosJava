@@ -24,7 +24,7 @@ public class CadastroUsuario {
 
 
         System.out.print("Você estuda Java? (Sim/Não): ");
-        String resposta = scanner.next().toLowerCase();
+        String resposta = scanner.next().trim().toLowerCase();
         boolean estudaJava = resposta.equals("sim");
 
 
