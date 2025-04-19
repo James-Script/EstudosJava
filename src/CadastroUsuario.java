@@ -36,13 +36,14 @@ public class CadastroUsuario {
 
 
         // Exibição dos dados
-        System.out.println("\n--- DADOS CADASTRADOS ---");
-        System.out.println("Nome: " + nome);
-        System.out.println("Idade: " + idade + " anos");
-        System.out.println("Altura: " + altura + " m(" + alturaCm + "cm)");
-        System.out.printf("Salário: R$ %.2f (Dobrado: R$ %.2f)%n", salario, salarioDobrado);
-        System.out.println("Sexo: " + generoCompleto);
-        System.out.println("Estuda Java? " + javaStatus);
+        System.out.println("\n" + "|--- DADOS CADASTRADOS ---|");
+        System.out.println("|                         |");
+        System.out.println("|Nome: " + nome +"              |");
+        System.out.println("|Idade: " + idade + " anos           |");
+        System.out.println("|Altura: " + altura + " m(" + alturaCm + "cm)  |");
+        System.out.printf("|Salário: R$ %.2f (Dobrado: R$ %.2f)%n", salario, salarioDobrado);
+        System.out.println("|Sexo: " + generoCompleto + "          |");
+        System.out.println("|Estuda Java? " + javaStatus + "         |");
         scanner.close();
     }
 }
